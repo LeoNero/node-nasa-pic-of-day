@@ -1,5 +1,5 @@
 # NASA Astronomy Picture of the Day
-============
+
 ##
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 [![GitHub Stars](https://img.shields.io/github/stars/LeoNero/node-nasa-pic-of-day.svg?style=flat-square)](https://github.com/LeoNero/node-nasa-pic-of-day/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/LeoNero/node-nasa-pic-of-day.svg?style=flat-square)](https://github.com/LeoNero/node-nasa-pic-of-day/issues) [![Current Version](https://img.shields.io/badge/version-0.1-green.svg?style=flat-square)](https://github.com/LeoNero/node-nasa-pic-of-day)
